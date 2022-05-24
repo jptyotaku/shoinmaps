@@ -1,7 +1,97 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "20220523",
+      "ホーム",
+      "https://github.com/jptyotaku/shoinmaps/blob/master/public/100book.jpg",
+      "35.644391",
+      "139.655482",
+      "100人の本屋さん",
+      "松陰神社前の棚貸し書店です",
+      "100booksellers",
+      "100booksellers",
+      "https://shoin-wakamatsu.sakura.ne.jp/100booksellers/"
+    ],
+    [
+      "20220523",
+      "スポット",
+      "https://github.com/jptyotaku/shoinmaps/blob/master/public/shoinjinjya.jpg",
+      "35.646123",
+      "139.655954",
+      "松陰神社",
+      "吉田松陰を祀った神社です",
+      "shoinjinja_official",
+      "shoinjinja",
+      "https://www.shoinjinja.org/"
+    ],
+    [
+      "20220523",
+      "飲食",
+      "",
+      "35.642549",
+      "139.653331",
+      "すみさわ",
+      "炭火焼き魚の定食と弁当の店です",
+      "sumisawa_",
+      "",
+      "http://www.sumisawa.com/"
+    ],
+    [
+      "20220523",
+      "飲食",
+      "",
+      "35.644414",
+      "139.655751",
+      "プレドショウイン",
+      "リヨン料理のビストロです",
+      "pres_de_shoin"
+    ],
+    [
+      "20220523",
+      "書店",
+      "",
+      "35.650698",
+      "139.647711",
+      "七月堂古書部",
+      "詩集の出版社が古書販売しています",
+      "shichigatsudo",
+      "shichigatsudo2",
+      "http://www.shichigatsudo.co.jp/"
+    ],
+    [
+      "20220523",
+      "スポット",
+      "",
+      "35.659286",
+      "139.663917",
+      "BONUS TRACK",
+      "小田急線が地下化したあとの地上にできたオアシスです",
+      "bonustrack_skz",
+      "",
+      "https://linktr.ee/bonustrack_skz"
+    ],
+    [
+      "20220523",
+      "スポット",
+      "",
+      "35.650991",
+      "139.660294",
+      "旧世田谷区役所跡",
+      "昭和7年に世田谷区が発足した際はここに区役所がありました"
+    ]
+  ]
 }
